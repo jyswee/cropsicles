@@ -39,4 +39,8 @@ a GameCI build pipeline across macOS, Windows, and Linux.
 
 ---
 
-© 2026 TYGA.GAMES. Cropsicles, its worlds, and all game art are original works.
+Copyright © 2026 Tyga.Cloud Ltd. All rights reserved. CROPSICLES™ and the CROPSICLES
+logo are trade marks of Tyga.Cloud Ltd. Cropsicles, its worlds, characters, art, music,
+and code are original works protected automatically under the Berne Convention; no
+licence, express or implied, is granted by the publication of this repository or of any
+release attached to it. See [COPYRIGHT](COPYRIGHT).
