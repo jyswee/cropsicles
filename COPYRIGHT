@@ -26,6 +26,21 @@ COPYRIGHT
   reproduce the Work or any part of it in or as training data for machine
   learning or generative systems.
 
+THE CROPSICLES LOGO
+  The CROPSICLES logo is a stylised wordmark owned by the Owner: every letter
+  is a custom-drawn vector form (no typeface), shown as a green (#39b54a)
+  outline. It is an original artistic work, a work of drawing under Article 2(1)
+  of the Berne Convention, protected as artwork in its own right, independently
+  of and in addition to the word CROPSICLES and the trade mark below. The
+  artwork is deposited in this repository as published:
+    assets/logo/cropsicles-logo.svg        outline logo (as used in the game)
+    assets/logo/cropsicles-logo-solid.svg  solid variant
+    assets/logo/cropsicles-logo.png        in-game raster, 1536 x 203
+  The logo has appeared in every build since the first public release
+  (v0.2.1, 2026-09-10). Each SVG carries this ownership notice in its title,
+  desc and metadata. Copying, tracing, redrawing or adapting the letterforms is
+  reproduction of the artwork, whatever the text spelled.
+
 TRADE MARKS
   CROPSICLES and the CROPSICLES logo are trade marks of the Owner, used in
   connection with downloadable and online computer game software. They are

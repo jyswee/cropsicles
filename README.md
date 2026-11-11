@@ -1,4 +1,6 @@
-# CROPSICLES
+<p align="center"><img src="assets/logo/cropsicles-logo.svg" alt="CROPSICLES logo" width="640"></p>
+
+# CROPSICLES&#8482;
 
 A crop-circle match-3, built on an original neon-vector engine in Unity 6.
 
@@ -40,7 +42,9 @@ a GameCI build pipeline across macOS, Windows, and Linux.
 ---
 
 Copyright © 2026 Tyga.Cloud Ltd. All rights reserved. CROPSICLES™ and the CROPSICLES
-logo are trade marks of Tyga.Cloud Ltd. Cropsicles, its worlds, characters, art, music,
-and code are original works protected automatically under the Berne Convention; no
+logo are trade marks of Tyga.Cloud Ltd. The CROPSICLES logo ([assets/logo](assets/logo)) is
+also an original artistic work in its own right: its letterforms are custom drawn, so the
+artwork is protected as a drawing, not only the word. Cropsicles, its worlds, characters,
+art, music, and code are original works protected automatically under the Berne Convention; no
 licence, express or implied, is granted by the publication of this repository or of any
 release attached to it. See [COPYRIGHT](COPYRIGHT).
